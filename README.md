@@ -32,11 +32,11 @@ Explore the exciting features of our Gaming Gear E-commerce Website:
 
 ![Homepage](/public/homepage.png)
 
-![Product Page](path/to/product-page-screenshot.png)
+![Product Page](/public/product.png)
 
-![Wishlist](path/to/wishlist-screenshot.png)
+![Wishlist](/public/wishlist.png)
 
-![Admin Dashboard](path/to/admin-dashboard-screenshot.png)
+![Admin Dashboard](/public/admin_dash.png)
 
 ## Installation 🖥️
 
