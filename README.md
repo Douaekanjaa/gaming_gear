@@ -30,7 +30,7 @@ Explore the exciting features of our Gaming Gear E-commerce Website:
 
 ## Screenshots 📷
 
-![Homepage](homepage.png)
+![Homepage](/public/homepage.png)
 
 ![Product Page](path/to/product-page-screenshot.png)
 
