@@ -100,9 +100,7 @@
                             <li class="nav-item">
                                 <a class="nav-link mx-2" href="#brands">Brands</a>
                             </li>
-                            <li class="nav-item">
-                                <a class="nav-link mx-2" href="#deals">Deals</a>
-                            </li>
+                           
                             <li class="nav-item">
                                 <a class="nav-link mx-2" href="#about">About Us</a>
                             </li>
