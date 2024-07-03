@@ -30,7 +30,7 @@ Explore the exciting features of our Gaming Gear E-commerce Website:
 
 ## Screenshots 📷
 
-![Homepage](path/to/homepage-screenshot.png)
+![Homepage](homepage.png)
 
 ![Product Page](path/to/product-page-screenshot.png)
 
@@ -43,7 +43,7 @@ Explore the exciting features of our Gaming Gear E-commerce Website:
 Follow these steps to set up your Gaming Gear E-commerce Website locally:
 
 1. Clone the repository:
-git clone https://github.com/yourusername/gaming-gear-website.git
+git clone https://github.com/Douaekanjaa/gaming_gear.git
 cd gaming-gear-website
 
 2. Install dependencies:
