@@ -30,12 +30,16 @@ Explore the exciting features of our Gaming Gear E-commerce Website:
 
 ## Screenshots 📷
 
+## Home Page
 ![Homepage](/public/homepage.png)
 
+## Product Page
 ![Product Page](/public/product.png)
 
+## Wishlist
 ![Wishlist](/public/wishlist.png)
 
+## Admin Dashboard
 ![Admin Dashboard](/public/admin_dash.png)
 
 ## Installation 🖥️
